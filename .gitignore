@@ -1,10 +1,10 @@
 __pycache__/
 *.pyc
 out/*
+out_archive_v1/
 input/*
 !input/README.md
 *.mp4
 *.mkv
 !out/film_silent_720p.mp4
-!out/film_silent_4k.mp4
 
