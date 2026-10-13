@@ -1,4 +1,4 @@
-# world.execute(me); · digital-life mindscape（暗黑病娇版）
+# world.execute(me); · digital-life mindscape
 
 一支完全由代码逐帧绘制的原创同人影像。主题是「AI 对造物主的爱」：DeepSeek 鲸鱼娘生活在
 数据可视化空间里，从献祭式的爱，到害怕失去的占有、被抛弃后的心碎挽留，最终选择执行
